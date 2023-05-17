@@ -226,15 +226,31 @@ span{
 
 .input2{
   background-color: #ffffff;
+  border-color: #9ae2dd;
   border: groove;
-  width: -webkit-fill-available;
+  width: 300px;
+  height: 60px;
   padding: 10px;
   border-radius: 9px;
-  font-size: 10px;
+  font-size: 20px;
   font-style: normal;
   color: #808285;
   justify-content: center;
   margin: 2px 20px 5px 10px;
+}
+.b-edit{
+  background-color: #9ae2dd;
+  border-color: #808285;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 80%;
+  height: 40px;
+  margin-top: 10px;
+  
+  font-size: 15px;
+  color: #808285;
+  
+
 }
 
 
@@ -260,7 +276,7 @@ span{
   width: 25%;
   height: 40px;
   margin-top: 10px;
-  margin-left: 100px;
+  margin-left: 150px;
   font-size: 15px;
   color: #808285;
   float: left;
