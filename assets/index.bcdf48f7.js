@@ -19001,7 +19001,7 @@ const wall = () => {
                       <a href="/"> 
                       <img src="assets/regresar.png" width="100px" height="100px"></a></div>
                       <div id="portada">
-                      <img src="assets/fotoportada2.jpg" style="max-width:100%;height:20%;"></div>
+                      <img src=DEV004-social-networkassets/fotoportada2.jpg" style="max-width:100%;height:20%;"></div>
                       <div id="form">
                       <input class="input" id="name" type="name" placeholder="Nombre de tu mascota aqu\xED" >
                       <input class="input" id="edad" type="number"  placeholder="Edad de tu mascota aqu\xED">
